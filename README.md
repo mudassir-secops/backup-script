@@ -31,8 +31,8 @@ Add this line to run daily at 9 AM:
 
 ## Project structure
 backup-script/
-├── backup.sh        # main script
-├── .env.example     # config template (copy this to .env)
+├── backup.sh        
+├── .env.example     
 ├── .gitignore       # ignores .env and archives
 └── README.md        # this file
 
